@@ -19,13 +19,13 @@ Bachelor of Engineering in Electronics
 ##### What I bring to the table
 
 * **Languages:** SQL, Python, R, C  
-* **Technical Skills:**  Data Cleaning, Data Analysis, Data Visualization & Reporting, Data Validation, Statistics
+* **Technical Skills:**  Data Mining, Predictive Analytics, Data Analysis, Visualization & Reporting, Statistics
 
 * **Software/ Tools:** AWS, Snowflake, Tableau, Power BI, Stata, Salesforce, Excel, Google Analytics, MS Project, MS Visio
 
 * **Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, Keras, NLTK, Scrapy, BeautifulSoup 
 
-* **Soft Skills:** Problem solving, Teamwork, Verbal and Written communication
+* **Soft Skills:** Business acumen, Problem solving, Teamwork, Verbal and Written communication, Curiosity
 
 [<img target="_blank" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>](https://public.tableau.com/profile/ashank#!/) 
 [<img target="_blank" src="https://img.icons8.com/windows/48/26e07f/hackerrank.png"/>](https://www.hackerrank.com/ashank_more?hr_r=1) 
