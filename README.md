@@ -18,10 +18,10 @@ Bachelor of Engineering in Electronics
 ### &#x270d; Skills and Abilities:
 ##### What I bring to the table
 
-* **Languages:** SQL, Python, R, C  
+* **Languages:** SQL, Python, R, PySpark, Spark SQL, PostgreSQL, MySQL, HiveQL, C  
 * **Technical Skills:**  Data Mining, Predictive Analytics, Data Analysis, Visualization & Reporting, Statistics
 
-* **Software/ Tools:** AWS, Snowflake, Tableau, Power BI, Stata, Salesforce, Excel, Google Analytics, MS Project, MS Visio
+* **Software/ Tools:** AWS, Snowflake, Tableau, Power BI, Stata, Salesforce, Excel, JIRA, Git, MS Project, MS Visio
 
 * **Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, Keras, NLTK, Scrapy, BeautifulSoup 
 
