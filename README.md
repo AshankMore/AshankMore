@@ -1,5 +1,5 @@
 [![Header]( https://gist.githubusercontent.com/rowhitswami/8e1b262ffc0f2368890b72fbe26bacb5/raw/068f8cb8d21e579e5d46f75918c64eeaf97f19a0/hello.gif "Header")](https://ashanksm35.wixsite.com/)
-## Hi there 👋🏻 
+## Hi there, Ashank here 👋🏻 
 I am currently working as a Data Analyst at [**Capital One**](http://www.capitalone.com/). I love the idea of taking raw numbers and turning them into actionable insights for the world's business and financial decision makers. Technology is my thing, and the financial markets excite me. 
 <br/>I grew up in India, am a people person who loves outdoor adventures.
 
