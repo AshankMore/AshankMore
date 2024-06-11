@@ -29,10 +29,11 @@ Bachelor of Engineering in Electronics
 
 [<img target="_blank" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>](https://public.tableau.com/profile/ashank#!/) 
 [<img target="_blank" src="https://img.icons8.com/windows/48/26e07f/hackerrank.png"/>](https://www.hackerrank.com/ashank_more?hr_r=1) 
+[<img target="_blank" src="https://img.icons8.com/ios/50/medium-logo.png" alt="medium-logo"/>](https://medium.com/@ashanksm) 
 
 ### Let's get in touch 📱
 
 [<img target="_blank" src="https://img.icons8.com/color/48/000000/skype--v4.png"/>](https://join.skype.com/invite/DdusuNLSkQHz) 
-[<img target="_blank" src="https://img.icons8.com/color/48/4a90e2/linkedin-circled--v2.png"/>](https://www.linkedin.com/in/ashank-more-90a0a4106/) 
+[<img target="_blank" src="https://img.icons8.com/color/48/4a90e2/linkedin-circled--v2.png"/>](https://medium.com/@ashanksm) 
 
 
