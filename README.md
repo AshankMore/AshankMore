@@ -8,7 +8,7 @@ I am currently working as a Data Analyst at [**Capital One**](http://www.capital
 ##### What I’ve learned
 
 * **University of Maryland:** Robert H. Smith School of Business, College Park, MD, USA - **Dec 2019**<br/>
-Master of Science in Information System                                                                                                                                             
+Master of Science in Information Systems                                                                                                                                             
 
 * **University of Mumbai:** Sardar Patel Institute of Technology, Mumbai, MH, India - **May 2018**<br/>
 Bachelor of Engineering in Electronics                                                                                                                                             
@@ -25,7 +25,7 @@ Bachelor of Engineering in Electronics
 
 * **Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, Keras, NLTK, Scrapy, BeautifulSoup 
 
-* **Soft Skills:** Business acumen, Problem solving, Teamwork, Verbal and Written communication, Curiosity
+* **Soft Skills:** Business acumen, Problem-solving, Teamwork, Verbal and Written communication, Curiosity
 
 [<img target="_blank" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>](https://public.tableau.com/profile/ashank#!/) 
 [<img target="_blank" src="https://img.icons8.com/windows/48/26e07f/hackerrank.png"/>](https://www.hackerrank.com/ashank_more?hr_r=1) 
