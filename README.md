@@ -20,7 +20,7 @@ Bachelor of Engineering in Electronics
 
 * **Languages:** SQL, Python, R, PySpark, Spark SQL, PostgreSQL, MySQL, HiveQL, C  
 * **Technical Skills:**  Data Mining, Predictive Analytics, Data Analysis, Visualization & Reporting, Statistics
-* **Certification:** AWS Certified Machine Learning - Specialty, Amazon Web Services Cloud Practitioner
+* **Certification:** AWS Certified Machine Learning Specialty, Amazon Web Services Cloud Practitioner
 
 * **Software/ Tools:** AWS, Snowflake, Tableau, Power BI, Stata, Salesforce, Excel, JIRA, Git, MS Project, MS Visio
 
