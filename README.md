@@ -22,7 +22,7 @@ Bachelor of Engineering in Electronics
 * **Technical Skills:**  Data Mining, Predictive Analytics, Data Analysis, Visualization & Reporting, Statistics
 * **Certification:** AWS Certified Machine Learning Specialty, Amazon Web Services Cloud Practitioner
 
-* **Software/ Tools:** AWS, Snowflake, Tableau, Power BI, Databricks, Salesforce, Excel, JIRA, Git, MS Project, MS Visio
+* **Software/ Tools:** AWS, Snowflake, Tableau, Power BI, Databricks, Salesforce, Excel, JIRA, Git, MS Visio
 
 * **Libraries:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, PyTorch, Keras, NLTK, Scrapy, BeautifulSoup 
 
